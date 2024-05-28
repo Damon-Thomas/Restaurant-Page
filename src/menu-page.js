@@ -47,7 +47,7 @@ function menuPage(){
     food3title.textContent = 'Mozzarella Sticks'
     food3.appendChild(food3title)
     const food3para = document.createElement('p')
-    food3para.textContent = "Ooeey Gooeey Goodness. Sure to melt in your mouth. Made from only the finest hand selected cheeses from the Netherlands"
+    food3para.textContent = "Ooeey Gooeey Goodness. Sure to melt in your mouth. Made from only the finest hand selected cheeses from the Netherlands."
     food3.appendChild(food3para)
 
     // food item 4
